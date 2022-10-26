@@ -8,5 +8,5 @@
 <br /><br />
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nuxtjs,ts,rust,go,elixir,redis,cloudflare,docker,tailwindcss" />
+  <img src="https://skillicons.dev/icons?i=nuxtjs,ts,rust,go,elixir,cloudflare,aws,docker,tailwindcss" />
 </a>
