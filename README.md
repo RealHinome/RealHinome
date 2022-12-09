@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Gravitalia](https://github.com/Gravitalia)
 - 🌱 I’m currently learning `Rust` & `Elixir`
-- 📫 How to reach me: hinome@gravitalia.studio
+- 📫 How to reach me: 
 <br /><br />
 
 <a href="https://skillicons.dev">
